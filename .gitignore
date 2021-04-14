@@ -1,5 +1,18 @@
-# Ignore everything
-*
+BasicGame
+BasicGraphiics
+BasicShapes
+ControlFlowGraph
+Final_Exam
+Game
+Lexical Analyzer
+MarttiGuillermo_CIS2454SU20_A6
+MsgTree
+Worker
 
-!.gitignore
-!SQLClientApp/src
+*/build
+*/nbproject
+*/test
+*/build
+*/manifest.mf
+*/*.xml
+*/dist
